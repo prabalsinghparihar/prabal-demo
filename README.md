@@ -1,4 +1,4 @@
 # prabal-demo
 This is my first repository 
 <br>
-auhtor - prabal singh parihar 
+auhtor - prabal singh parihar (student)
